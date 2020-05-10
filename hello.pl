@@ -6,6 +6,8 @@ print "Hello World!" . "\n";
 
 print "And other stuff..." . "\n";
 
+print "More stuff!" . "\n";
+
 print "Now we are done." . "\n";
 
 # -30-
